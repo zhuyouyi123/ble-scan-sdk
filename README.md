@@ -1,2 +1,2 @@
 # ble-scan-sdk
-拉亚扫描sdk
+蓝牙扫描sdk
