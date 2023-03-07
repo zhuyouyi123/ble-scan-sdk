@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ble-sdk</string>
+
+    <!--错误信息-->
+    <string name="unknown_error">unknown error</string>
+    <string name="init_error_context_is_null">initialization failed, sdk cannot be used</string>
+    <string name="ble_error_bluetooth_not_open">bluetooth is not open</string>
+    <string name="permission_error_access_coarse_location">no permission to get access coarse location</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">藍牙SDK</string>
+
+    <!--错误信息-->
+    <string name="unknown_error">未知錯誤</string>
+    <string name="init_error_context_is_null">初始化失敗，sdk無法使用</string>
+    <string name="ble_error_bluetooth_not_open">藍牙未打開</string>
+    <string name="permission_error_access_coarse_location">沒有獲取粗略位置的許可權</string>
+
+</resources>
